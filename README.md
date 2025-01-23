@@ -8,8 +8,7 @@ Se utilizó este script debe ejecutarse con el entorno conda .....yaml provisto 
 
 ## Uso
 
+Este script está diseñado para analizar datos de un archivo .csv que contiene valores de variación morfológica y geográfia de la especie *Telmatobius marmoratus*. Estos valores representan mediciones de la morfologia de esta especie junto con datos geograficos en el norte y sur de La Paz. Se midieron 17 variables en 43 individuos de *Telmatobius marmoratus* que se encuentra en la Colección Boliviana de Fauna (CBF).
 
+Las capacidades del script incluyen la lectura de los datos del archivo .csv y la creación de gráficos para explorar la variación morfológica y geográfia de esta especie. Además, el script le permite realizar análisis de datos en cualquier momento. 
 
-## Contribuciones
-
-Instrucciones para contribuir al proyecto.
