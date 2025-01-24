@@ -12,3 +12,4 @@ Este script está diseñado para analizar datos de un archivo .csv que contiene 
 
 Las capacidades del script incluyen la lectura de los datos del archivo .csv y la creación de gráficos para explorar la variación morfológica y geográfia de esta especie. Además, el script le permite realizar análisis de datos en cualquier momento. 
 
+Para el análisis estadistico utilizamos paquetes como análisis descriptivo, ANOVA, PCA y análisis de correlación, para el análisis de nuestra base de datos. Con sus respectivas gráficas, que pueden ser visualizadas corriendo s respectivos códigos.  
